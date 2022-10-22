@@ -1,3 +1,5 @@
+ESE 519: Lab 2B Expansion Board Proposal
+
 Osamuyi Uwadia
  
 https://www.linkedin.com/in/osamuyi-uwadia-a3038813b/
