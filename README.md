@@ -16,5 +16,6 @@ Components:
 I have all components needed. 
 
 
-![image](https://user-images.githubusercontent.com/114784563/197309163-cbeb37c7-fa50-4553-b496-a833f5e11237.png)
+https://github.com/Osamuyi97/Lab2bPre/commit/17d72dc69fb3bbccab64ef20d4070b6fa536e0b9
 
+![image](https://user-images.githubusercontent.com/114784563/197309298-520d86ff-e814-410e-9b42-0a1bdefe2d74.png)
