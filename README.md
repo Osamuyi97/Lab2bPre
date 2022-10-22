@@ -14,5 +14,7 @@ Components:
 •	Cable cords 
 •	Breadboard.
 I have all components needed. 
- ![image](https://user-images.githubusercontent.com/114784563/197309163-cbeb37c7-fa50-4553-b496-a833f5e11237.png)
+
+
+![image](https://user-images.githubusercontent.com/114784563/197309163-cbeb37c7-fa50-4553-b496-a833f5e11237.png)
 
